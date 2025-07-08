@@ -40,6 +40,7 @@ function App() {
           <Route path='/furniture/:id' element={<FurnitureSingle/>}></Route>
           <Route path='tv/:id' element={<TvSingle/>}></Route>
         <Route path='/cart' element={<UserCart/>}></Route>
+        
 
 
          
